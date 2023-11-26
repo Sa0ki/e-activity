@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259420166349",
+    "project_id": "activity-8414f",
+    "storage_bucket": "activity-8414f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259420166349:android:c46bc8158912a64cf43184",
+        "android_client_info": {
+          "package_name": "ma.kinan.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2U9TqRDLcnFCeElm3UXuTvJJ0FhQbZuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
