@@ -33,6 +33,7 @@ L'application "E-Activity" est conçue pour être exécutée sur le navigateur "
 ## Connexion
 - Utiliser le compte suivant: { "login": "mathieu.miollan@gmail.com", "password": "mathieu" }
 - Sinon, vous pouvez vous inscrire.
+- (Base de données OFF, vous ne pourrez plus vous connecter.)
 
 ## Ajout d'images
 
